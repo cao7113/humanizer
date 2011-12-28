@@ -1,3 +1,16 @@
+##==Add by me 
+* 20111228 很喜欢logic CAPTCHA的概念，在项目中采用
+* 默认可选资源里竟没有中文版本，把我生成的几个问题加进来，如在rails3项目中使用中文
+1)config/application.rb 中加入：
+    config.i18n.default_locale = :zh_CN
+2）将中文资源导入config/locales下
+  我暂时放在：lib/generators/templates/locales/zh-CN.yml
+    
+  
+#=待改进处：
+* 源代码量很少，简单看了下实现原理很简单，但在实现方法上有很多可改进的地方，后期可改善
+
+####============Original Humanizer
 # Humanizer
 
 Humanizer is a very simple CAPTCHA method. It has a localized YAML file with questions and answers which is used to validate that the user is an actual human. Any model that includes ActiveModel::Validations should work. Our aim is to be database and mapper agnostic, so if it doesn't work for you, open an issue. Humanizer only works with Rails 3.

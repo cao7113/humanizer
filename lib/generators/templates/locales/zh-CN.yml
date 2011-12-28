@@ -1,0 +1,129 @@
+zh_CN:
+  humanizer:
+    validation:
+      error: 拒绝非人类进入系统！
+    questions:
+      - question: Hi，一周多少天？  
+        answers: ["7", "七", "seven"]
+      - question: Hello，一年 多少 个月呢？  
+        answers: ["12", "十二", "twelve"]
+      - question: 一 的平方 加 8246 是 多少
+        answer: 8247
+      - question: 411 减 一  是 多少
+        answer: 410
+      - question: 二 的平方 加 6455 是 多少
+        answer: 6459
+      - question: 65 减 二  等 于？
+        answer: 63
+      - question: 三 的平方 加 429 等 于？
+        answer: 438
+      - question: 151 减 三  等 于？
+        answer: 148
+      - question: 四 的平方 加 5466 等 于？
+        answer: 5482
+      - question: 498 减 四  是 多少
+        answer: 494
+      - question: 五 的平方 加 3909 = ？
+        answer: 3934
+      - question: 868 减 五  = ？
+        answer: 863
+      - question: 六 的平方 加 5053 = ？
+        answer: 5089
+      - question: 544 减 六  是 多少
+        answer: 538
+      - question: 七 的平方 加 8463 是 多少
+        answer: 8512
+      - question: 767 减 七  等 于？
+        answer: 760
+      - question: 八 的平方 加 9043 是 多少
+        answer: 9107
+      - question: 387 减 八  是 多少
+        answer: 379
+      - question: 九 的平方 加 5434 是 多少
+        answer: 5515
+      - question: 242 减 九  等 于？
+        answer: 233
+      - question: 十 的平方 加 4440 是 多少
+        answer: 4540
+      - question: 315 减 十  是 多少
+        answer: 305
+      - question: 一 的平方 加 3617 等 于？
+        answer: 3618
+      - question: 904 减 一  = ？
+        answer: 903
+      - question: 二 的平方 加 4654 = ？
+        answer: 4658
+      - question: 981 减 二  等 于？
+        answer: 979
+      - question: 三 的平方 加 5701 等 于？
+        answer: 5710
+      - question: 636 减 三  是 多少
+        answer: 633
+      - question: 四 的平方 加 1485 是 多少
+        answer: 1501
+      - question: 932 减 四  等 于？
+        answer: 928
+      - question: 五 的平方 加 3346 是 多少
+        answer: 3371
+      - question: 406 减 五  等 于？
+        answer: 401
+      - question: 六 的平方 加 625 是 多少
+        answer: 661
+      - question: 620 减 六  等 于？
+        answer: 614
+      - question: 七 的平方 加 3207 等 于？
+        answer: 3256
+      - question: 674 减 七  = ？
+        answer: 667
+      - question: 八 的平方 加 9471 等 于？
+        answer: 9535
+      - question: 294 减 八  等 于？
+        answer: 286
+      - question: 九 的平方 加 3330 是 多少
+        answer: 3411
+      - question: 827 减 九  是 多少
+        answer: 818
+      - question: 十 的平方 加 9174 是 多少
+        answer: 9274
+      - question: 32 减 十  是 多少
+        answer: 22
+      - question: 一 的平方 加 5984 等 于？
+        answer: 5985
+      - question: 825 减 一  是 多少
+        answer: 824
+      - question: 二 的平方 加 6259 = ？
+        answer: 6263
+      - question: 738 减 二  = ？
+        answer: 736
+      - question: 三 的平方 加 1 是 多少
+        answer: 10
+      - question: 201 减 三  = ？
+        answer: 198
+      - question: 四 的平方 加 4884 是 多少
+        answer: 4900
+      - question: 151 减 四  是 多少
+        answer: 147
+      - question: 五 的平方 加 6942 = ？
+        answer: 6967
+      - question: 750 减 五  是 多少
+        answer: 745
+      - question: 六 的平方 加 101 等 于？
+        answer: 137
+      - question: 391 减 六  等 于？
+        answer: 385
+      - question: 七 的平方 加 1577 = ？
+        answer: 1626
+      - question: 224 减 七  等 于？
+        answer: 217
+      - question: 八 的平方 加 7134 等 于？
+        answer: 7198
+      - question: 146 减 八  等 于？
+        answer: 138
+      - question: 九 的平方 加 1905 = ？
+        answer: 1986
+      - question: 449 减 九  等 于？
+        answer: 440
+      - question: 十 的平方 加 4437 = ？
+        answer: 4537
+      - question: 493 减 十  是 多少
+        answer: 483
